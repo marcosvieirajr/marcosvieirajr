@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" style="margin-top: -30px !important">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" style="margin-top: -30px !important">
 
 [![Profile last updated](https://img.shields.io/github/last-commit/marcosvieirajr/marcosvieirajr?label=Last%20updated)](https://github.com/marcosvieirajr/marcosvieirajr/commits)
 
