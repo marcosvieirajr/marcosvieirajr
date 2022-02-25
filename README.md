@@ -1,21 +1,18 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" style="margin-top: -30px !important">
 
-[![Profile last updated](https://img.shields.io/github/last-commit/marcosvieirajr/marcosvieirajr?label=Last%20updated)](https://github.com/marcosvieirajr/marcosvieirajr/commits)
-
 ## Hi there, I'm Marcos Vieira Jr 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvieirajr "Find on Linkedin")
-[![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)](mailto:marcosvieirajr@gmail.com)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/marcosvieirajr)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/marcosvieirajr)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/marcosvieirajr/)
+[![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)][gmail]
+[![Linkedin Badge](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)][whatsapp]
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)][twitter]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][instagram]
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)][spotify]
+
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
 
 Software Enginner and Tech Lead at [Via S.A](https://www.via.com.br/). 
-
-- 📝 [Resume](https://github.com/marcosvieirajr/marcosvieirajr/blob/main/resume.pdf).
 
 #### A little more about me...
 
@@ -36,8 +33,6 @@ const marcos = {
     },
     currentFocus: "Go",
     askMeAbout: "Anything, I am happy to help",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
 };
 ```
 </br>
@@ -55,6 +50,12 @@ const marcos = {
 </p>
 
 <!--
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+- 📝 [Resume](https://github.com/marcosvieirajr/marcosvieirajr/blob/main/resume.pdf).
+
 **marcosvieirajr/marcosvieirajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -69,22 +70,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 code:
-askMeAbout: ["ReactiveDev", "Tech", ...],
-    reachMe: ["linkedin.com/in/marcosvieirajr",  "marcosvieirajr@gmail.com"]
 architecture: ["microservices", "event-driven", "design system pattern"],
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 currentFocus: "Building Robots to ease opertations",
 funFact: "There are two ways to write error-free programs; only the third one works"
-
+fun: "Two bytes meet. The first byte asks, 'Are you ill?'
+          The second byte replies, 'No, just feeling a bit off.'"
 -->
 
+[![Profile last updated](https://img.shields.io/github/last-commit/marcosvieirajr/marcosvieirajr?label=Last%20updated)](https://github.com/marcosvieirajr/marcosvieirajr/commits)
 
-<!--
-[![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
-[![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daftdey/ "Follow on Instagram")
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
--->
+[linkedin]: https://www.linkedin.com/in/marcosvieirajr
+[dev]: https://dev.to/marcosvieirajr
+[gmail]: mailto:marcosvieirajr@gmail.com
+[whatsapp]: https://wa.me/+5571987021020
+[twitter]: https://twitter.com/marcosvieirajr
+[instagram]: https://www.instagram.com/marcosvieirajr
+[spotify]: https://open.spotify.com/user/
