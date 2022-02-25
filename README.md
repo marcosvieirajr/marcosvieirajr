@@ -4,12 +4,18 @@
 
 ## Hi there, I'm Marcos Vieira Jr 👋
 
-Software Enginner and Tech Lead at [Via S.A](https://www.via.com.br/)
-
 [![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvieirajr "Find on Linkedin")
-[![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)](mailto:marcosvieirajr@gmail.com "Contact me")
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ "My Spotify playlists")
+[![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)](mailto:marcosvieirajr@gmail.com)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/marcosvieirajr)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/marcosvieirajr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/marcosvieirajr/)
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
+
+Software Enginner and Tech Lead at [Via S.A](https://www.via.com.br/). 
+
+- 📝 [Resume](https://github.com/marcosvieirajr/marcosvieirajr/blob/main/resume.pdf).
 
 #### A little more about me...
 
@@ -29,11 +35,24 @@ const marcos = {
         misc: ["Kafka", "Linux"]
     },
     currentFocus: "Go",
-    reachMe: ["linkedin.com/in/marcosvieirajr",  "marcosvieirajr@gmail.com"]
+    askMeAbout: "Anything, I am happy to help",
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
           The second byte replies, 'No, just feeling a bit off.'"
 };
 ```
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvieirajr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvieirajr&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!--
 **marcosvieirajr/marcosvieirajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,6 +70,7 @@ Here are some ideas to get you started:
 
 code:
 askMeAbout: ["ReactiveDev", "Tech", ...],
+    reachMe: ["linkedin.com/in/marcosvieirajr",  "marcosvieirajr@gmail.com"]
 architecture: ["microservices", "event-driven", "design system pattern"],
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
