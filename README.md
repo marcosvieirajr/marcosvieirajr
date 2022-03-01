@@ -54,7 +54,7 @@ No activity tracked
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvieirajr&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<img height="165em" src="https://wakatime.com/share/@f05dadce-cea9-44e8-bffb-2ceb71c94150/4c9952f0-e4a9-454d-b918-60947137a2f3.svg" />
+<img height="600em" src="https://wakatime.com/share/@f05dadce-cea9-44e8-bffb-2ceb71c94150/4c9952f0-e4a9-454d-b918-60947137a2f3.svg" />
 
 <!--
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
