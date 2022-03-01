@@ -41,7 +41,16 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 February 2022 - To: 01 March 2022
+
+Total Time: 6 hrs 19 mins
+
+Go                5 hrs 13 mins   ████████████████████▓░░░░   82.32 %
+Bash              24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Markdown          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+YAML              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Protocol Buffer   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
