@@ -29,7 +29,7 @@ const marcos = {
         },
         devOps: ["AWS", "Kubernets", "Istio", "Docker", "Terraform", "Ansible", "Packer", "Vault"],
         databases: ["mongoDB", "PostgreSql"],
-        misc: ["Kafka", "Linux"]
+        misc: ["Kafka", "Linux", "gRPC", "RESTful"]
     },
     currentFocus: "Go",
     askMeAbout: "Anything, I am happy to help",
