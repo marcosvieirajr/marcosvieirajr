@@ -37,14 +37,14 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
 Total Time: 8 hrs 10 mins
 
-Go                6 hrs 4 mins    ██████████████████▓░░░░░░   74.05 %
-Makefile          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Go                6 hrs 4 mins    ██████████████████▒░░░░░░   73.97 %
+Makefile          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 Markdown          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Bash              24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Bash              24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 Protocol Buffer   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 YAML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
