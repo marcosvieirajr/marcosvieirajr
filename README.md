@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" style="margin-top: -30px !important">
 
-## Hi there, I'm Marcos Vieira Jr 👋
+## Hi! My name is Marcos Vieira Jr 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)][gmail]
@@ -9,12 +9,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][instagram]
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)][spotify]
 
+I'm a brazilian backend developer using Java/Go most of the time but learning Kubernets/IaC as well. My free time is spent with movies, series and study. I also love walking on the beach. Currently i'm working at [Via S.A.](https://www.via.com.br/) as a Software Enginner and Tech Lead.
+</br>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
-
-Software Enginner and Tech Lead at [Via S.A](https://www.via.com.br/). 
-
-#### A little more about me...
+#### 📘 **A little more about me:**
 
 ```javascript
 const marcos = {
@@ -31,13 +29,12 @@ const marcos = {
         databases: ["mongoDB", "PostgreSql"],
         misc: ["Kafka", "Linux", "gRPC", "RESTful"]
     },
-    currentFocus: "Go",
+    currentFocus: ["Go", "Kubernets"],
     askMeAbout: "Anything, I am happy to help",
 };
 ```
-</br>
 
-📊 **This Week I Spent My Time On:**
+#### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 
 ```text
@@ -54,9 +51,7 @@ JSON              2 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
+#### 📈 **My GitHub Stats:**
 
 <p>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcosvieirajr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
@@ -80,7 +75,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 *- 📫 How to reach me: ...
-*- 😄 Pronouns: ...
+*- 😄📃📓📒� Pronouns: ...
 - ⚡ Fun fact: ...
 
 code:
@@ -91,6 +86,10 @@ currentFocus: "Building Robots to ease opertations",
 funFact: "There are two ways to write error-free programs; only the third one works"
 fun: "Two bytes meet. The first byte asks, 'Are you ill?'
           The second byte replies, 'No, just feeling a bit off.'"
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
+
+Software Enginner and Tech Lead at [Via S.A](https://www.via.com.br/). 
 -->
 
 [![Profile last updated](https://img.shields.io/github/last-commit/marcosvieirajr/marcosvieirajr?label=Last%20updated)](https://github.com/marcosvieirajr/marcosvieirajr/commits)
