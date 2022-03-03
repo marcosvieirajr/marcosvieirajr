@@ -9,8 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)][instagram]
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)][spotify]
 
-I'm a brazilian backend developer using Java/Go most of the time but learning Kubernets/IaC as well. My free time is spent with movies, series and study. I also love walking on the beach. Currently i'm working at [Via S.A.](https://www.via.com.br/) as a Software Enginner and Tech Lead.
-</br>
+I'm a brazilian backend developer using Java/Go most of the time but learning Kubernets/IaC as well. Currently i'm working at [Via S.A.](https://www.via.com.br/) as a Software Enginner and Tech Lead. My free time is spent with movies, series and study. I also love walking on the beach.
 
 #### 📘 **A little more about me:**
 
