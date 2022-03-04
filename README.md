@@ -52,12 +52,14 @@ YAML              9 mins          ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 #### 📈 **My GitHub Stats:**
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvieirajr&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+<!--
 <p>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcosvieirajr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvieirajr&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<!--
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
