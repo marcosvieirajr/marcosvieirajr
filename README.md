@@ -37,16 +37,15 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2022 - To: 25 March 2022
+From: 19 March 2022 - To: 26 March 2022
 
-Total Time: 9 hrs 49 mins
+Total Time: 8 hrs 50 mins
 
-Go           4 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   47.20 %
-Java         1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-Docker       1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Bash         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-YAML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Go           4 hrs 44 mins   █████████████░░░░░░░░░░░░   51.52 %
+Java         1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+Bash         1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+YAML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Other        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
