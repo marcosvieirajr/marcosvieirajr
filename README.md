@@ -37,12 +37,12 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
-Total Time: 7 hrs 27 mins
+Total Time: 3 hrs 51 mins
 
-Go      6 hrs 36 mins   ████████████████████░░░░░   80.17 %
-Other   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Go      3 hrs 23 mins   ██████████████████▒░░░░░░   72.97 %
+Other   47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
 ```
 
 <!--END_SECTION:waka-->
