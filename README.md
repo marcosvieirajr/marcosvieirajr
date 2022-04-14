@@ -37,13 +37,7 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
-
-Total Time: 1 hr 9 mins
-
-Go      57 mins         ███████████████████▒░░░░░   77.32 %
-Bash    12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-Other   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
