@@ -37,7 +37,7 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
+From: 20 April 2022 - To: 27 April 2022
 
 Total Time: 1 hr 5 mins
 
