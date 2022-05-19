@@ -37,12 +37,13 @@ const marcos = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2022 - To: 17 May 2022
+From: 11 May 2022 - To: 18 May 2022
 
-Total Time: 4 hrs 6 mins
+Total Time: 3 hrs 7 mins
 
-Go         3 hrs 17 mins   ████████████████████░░░░░   80.41 %
-Markdown   48 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Go         2 hrs 26 mins   ███████████████████▓░░░░░   78.13 %
+Markdown   24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Java       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 ```
 
 <!--END_SECTION:waka-->
