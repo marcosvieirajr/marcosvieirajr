@@ -1,5 +1,3 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" style="margin-top: -30px !important">
-
 ## Hi! My name is Marcos Vieira Jr 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)][linkedin]
