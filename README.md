@@ -1,4 +1,4 @@
-## Hi! My name is Marcos Vieira Jr 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
+## Marcos Vieira Jr &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=marcosvieirajr.marcosvieirajr)
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)][gmail]
