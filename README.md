@@ -10,16 +10,16 @@ Enthusiastic about microservices architecture/design and Go language, I have bee
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-Total Time: 15 hrs 2 mins
+Total Time: 5 hrs 58 mins
 
-Java             9 hrs 14 mins   ███████████████▒░░░░░░░░░   61.39 %
-Markdown         2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-YAML             1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Go               1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-CLASS            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-GitIgnore file   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Java             1 hr 40 mins    ███████░░░░░░░░░░░░░░░░░░   27.95 %
+YAML             1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+Markdown         1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+Go               1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+CLASS            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Docker           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
