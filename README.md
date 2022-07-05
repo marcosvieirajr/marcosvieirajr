@@ -10,7 +10,12 @@ Enthusiastic about microservices architecture/design and Go language, I have bee
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 June 2022 - To: 04 July 2022
+
+Total Time: 15 mins
+
+Clojure   15 mins         ██████████████▓░░░░░░░░░░   58.28 %
+Other     10 mins         ██████████▒░░░░░░░░░░░░░░   41.72 %
 ```
 
 <!--END_SECTION:waka-->
