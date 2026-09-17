@@ -3,19 +3,26 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcosvieirajr-blue?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-marcosvieirajr-FF4500?style=flat&logo=gmail&logoColor=white)][gmail]
 
-Brazilian Senior/Specialist Software Engineer with 16+ years building scalable, event-driven distributed systems and leveraging AI/agentic workflows to accelerate delivery and reduce MTTR by ~40%.
+Staff/Senior Software Engineer focused on distributed systems and Go, helping teams design scalable architectures and lead complex technical initiatives.
 
-Technical leader who has guided teams of 4–9 at big companies such as Nubank and Via Varejo, built microservices serving 20M+ customers, and delivered measurable efficiency gains (e.g., 40% faster development lifecycle at Arvo; 35% shorter goods delivery times at Via Varejo, 90% faster rollouts at W6).
+16+ years of experience across e-commerce, fintech, and, more recently, healthtech startups, working across development, software architecture, and hands-on technical leadership. Currently at Memed, building the integration with Anvisa to enable online prescriptions for controlled-use medications in Brazil.
 
-Proficient in Go, Java and Clojure, with expertise in DevOps practices, Kubernetes, Terraform, GCP/AWS, DDD/Hexagonal architecture, observability, and Context Engineering for the SDLC.
+At the moment, getting deeper into AI Engineering using Go, focusing on Retrieval-Augmented Generation (RAG), embeddings, and vector search with Qdrant, and growing experience in LLM and AI-augmented coding.
 
-𝗦𝗞𝗜𝗟𝗟𝗦    
-• 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 & 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀: Event-driven architecture (EDA) | Domain-Driven Design (DDD) | Event Storming | Microservices | Hexagonal architecture • 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Go (GoLang) | Clojure (Functional Programming) | Java (Spring, WebFlux) • 𝗔𝗜 & 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆: Agentic Workflows (Claude Code) | Agentic Software Engineering | Context Engineering for SDLC | LLM-based CLI Tools • 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻: Docker, Kubernetes (K8s) • 𝗖𝗹𝗼𝘂𝗱: AWS (EKS, S3, EC2, RDS) | GCP (GKE, PubSub, GCS) • 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘀 𝗖𝗼𝗱𝗲 (𝗹𝗮𝗖) & 𝗖𝗜/𝗖𝗗: Terraform | Ansible | GitHub Actions | Jenkins • 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: Spanner, PostgreSQL, MongoDB, Datomic • 𝗢𝘁𝗵𝗲𝗿𝘀: Kafka | gRPC (ProtoBuf) | Linux;
+𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
+• Led the modernization of Nubank marketplace cashback system, enabling new products and services to offer the benefit to over 20 million customers.
+• Conducted cross-functional EventStorming workshops at Arvo, accelerating project kickoffs and reducing requirements ambiguity between business and tech teams.
+• Achieved a 35% reduction in merchandise delivery wait time by leading the implementation of new services at Grupo Casas Bahia.
+• Reduced rollout time by 90% by automating previously manual processes through CI/CD and DevOps practices at W6 Solutions.
 
-<!--
-- 📝 [Resume](https://github.com/marcosvieirajr/marcosvieirajr/blob/main/resume.pdf).
--->
+𝗦𝗞𝗜𝗟𝗟𝗦
+• 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲: Event-driven architecture (EDA), Domain-Driven Design (DDD), Microservices, Hexagonal Architecture, Event Storming, SOLID, Outbox Pattern;
+• 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀: Kafka, Pub/Sub, gRPC, Protocol Buffers;
+• 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆: OpenTelemetry, Prometheus, Grafana, Domain Probe Pattern;
+• 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Go (Golang), Clojure (Functional Programming), Java (Spring, WebFlux);
+• 𝗖𝗹𝗼𝘂𝗱, 𝗜𝗻𝗳𝗿𝗮 & 𝗜𝗮𝗖: AWS (EKS, S3, EC2, RDS), GCP (GKE, PubSub, GCS), Kubernetes (K8s), Docker, Terraform, Ansible, GitHub Actions, Linux;
+• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MongoDB, Redis, Spanner, Datomic.
+
 
 [linkedin]: https://www.linkedin.com/in/marcosvieirajr
-[dev]: https://dev.to/marcosvieirajr
 [gmail]: mailto:marcosvieirajr@gmail.com
